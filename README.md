@@ -25,5 +25,12 @@ A 12 button leverless controller powered by a rp2040, and using the GP2040-CE fi
 <img width="1112" height="642" alt="image" src="https://github.com/user-attachments/assets/86b8d767-ef36-430f-8386-f1f3789c2a44" />
 
 # Total bill of materials (BOM):-
-<img width="667" height="244" alt="image" src="https://github.com/user-attachments/assets/ede6fabd-f074-4b77-96d2-fb437f20c41a" />
 
+|Items   	|Cost   	|Link   	|
+|---	|---	|---	|
+|Switches   	|10   	|https://stackskb.com/store/hmx-xinhai-pack-of-10/   	|
+|Pico   	|4   	|https://robu.in/product/raspberry-pi-pico/   	|
+|USB C Breakout Board   	|2   	|https://robu.in/product/usb-type-c-breakout-board-downstream-connection/   	|
+|M3 Screws    |1    |https://robu.in/product/easymech-ss304-m3-x-16-mm-socket-head-cap-allen-bolt-25-pcs/    |
+|M2 Screws    |2    |https://robu.in/product/easymech-m2-x-6mm-socket-head-cap-allen-bolt-nut/    |
+|    |19    |    |
