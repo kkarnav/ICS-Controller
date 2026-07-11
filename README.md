@@ -23,3 +23,7 @@ A 12 button leverless controller powered by a rp2040, and using the GP2040-CE fi
 # Everything assembled together:-
 <img width="1477" height="799" alt="image" src="https://github.com/user-attachments/assets/1f8a8ceb-7337-4918-85bb-240b2c6e774a" />
 <img width="1112" height="642" alt="image" src="https://github.com/user-attachments/assets/86b8d767-ef36-430f-8386-f1f3789c2a44" />
+
+# Total bill of materials (BOM):-
+<img width="667" height="244" alt="image" src="https://github.com/user-attachments/assets/ede6fabd-f074-4b77-96d2-fb437f20c41a" />
+
