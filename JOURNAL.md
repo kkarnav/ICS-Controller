@@ -92,4 +92,4 @@ Changed the colours of the case:-
 <img width="1525" height="888" alt="image" src="https://github.com/user-attachments/assets/8e4f135f-7272-4490-b6f7-ce879ab09d9b" />
 <img width="1598" height="1023" alt="image" src="https://github.com/user-attachments/assets/1b67f466-d3ac-46c3-b5f2-02d20dc9a213" />
 
-I know the name of the project kinda lost all its meaning, but I have no idea what to change it to so I'm gonna keep it that way. I'm also going to switch the project over to stardance from forge because I like the rewards more on it.
+I know the name of the project kinda lost all its meaning, but I have no idea what to change it to so I'm gonna keep it that way.
