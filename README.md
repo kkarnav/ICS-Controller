@@ -15,14 +15,16 @@ A 12 button leverless controller powered by a rp2040, and using the GP2040-CE fi
 <img width="560" height="521" alt="image" src="https://github.com/user-attachments/assets/f845ed6b-6c5a-47ef-8a9f-fbe8f13e3da0" />
 
 # Bottom Case:-
-<img width="1139" height="681" alt="image" src="https://github.com/user-attachments/assets/d631b3e2-93db-446e-944b-f776c50926b7" />
+<img width="1097" height="667" alt="image" src="https://github.com/user-attachments/assets/e801fb1c-01ec-40cc-bb14-bc337407354b" />
+
 
 # Top:-
-<img width="1082" height="634" alt="image" src="https://github.com/user-attachments/assets/05dee394-a75c-4f77-adef-f114e5082cc1" />
+<img width="1241" height="925" alt="image" src="https://github.com/user-attachments/assets/000d4dbc-f83c-4490-9598-7562f1034575" />
+
 
 # Everything assembled together:-
-<img width="1477" height="799" alt="image" src="https://github.com/user-attachments/assets/1f8a8ceb-7337-4918-85bb-240b2c6e774a" />
-<img width="1112" height="642" alt="image" src="https://github.com/user-attachments/assets/86b8d767-ef36-430f-8386-f1f3789c2a44" />
+<img width="1525" height="888" alt="image" src="https://github.com/user-attachments/assets/c1decf67-a865-41f3-a9eb-def9618a6d40" />
+<img width="1598" height="1023" alt="image" src="https://github.com/user-attachments/assets/7f77748b-095c-4c20-a4c2-a6cc5d4c9786" />
 
 # Total bill of materials (BOM):-
 
